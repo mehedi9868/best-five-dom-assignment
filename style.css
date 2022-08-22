@@ -1,7 +1,6 @@
 body {
     background-color: #151515;
     font-family: 'Manrope', sans-serif;
-
 }
 
 header {
@@ -25,7 +24,6 @@ header {
 .all-cards {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
-
 }
 
 
